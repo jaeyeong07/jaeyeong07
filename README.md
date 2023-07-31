@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20jay%20&height=200&fontSize=80&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Jay%20&height=200&fontSize=80&textBg=true)
 <h1>I'm JAE YEONG</h1>
 
 <h2> MY interest</h2>
