@@ -10,4 +10,4 @@
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <src = "https://banner.codetree.ai/v1/banner/kgl7149)](https://www.codetree.ai/profiles/kgl7149">
-https://banner.codetree.ai/v1/banner/kgl7149)](https://www.codetree.ai/profiles/kgl7149
+src = https://banner.codetree.ai/v1/banner/kgl7149)](https://www.codetree.ai/profiles/kgl7149
